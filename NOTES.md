@@ -1,7 +1,4 @@
-# kiln
-High heat development environment 🔥
 
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/pixeloven/kiln)
 
 # Explore
 - [] Frontend in TS or Kotlin?
