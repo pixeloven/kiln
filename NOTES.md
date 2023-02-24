@@ -7,15 +7,21 @@
 - [] Backend in TS or Kotlin?
 
 
-## Development Enviroments
+## Development
 - [] Docker dev enviroments, Kubernetes? Minikube? Devspace?
-- [] Microservices, common code, mono repo
+- [] Mono repo structure
+- [] Micro Frontends
+- [] Common code
+- [] independent packge defintions? Package, API, APP and/or global? - GUT says no this was hard to maintain in PixelOven
 
 
 ## CI/CD
 - [] Code flow
 - [] Code cov
 - [] Gihub actions
+- [] Huksy? Pre commit
+- [] Prettier
+- [] Eslint strict and conencted to prettier also does it like TypeScript?
 
 ## AI / Machine Learning
 - [] Stable Diffusion
@@ -25,6 +31,9 @@
 ## Other
 - [] Game development (At least Web based support)
 - [] Native
+- [] Translations (server side and ideally static page support)
+- [] Kong for access control
+- [] Can we have server rendered and static render apps live side by side?
 
 
 https://kotlinlang.org/docs/multiplatform.html#full-stack-web-applications
