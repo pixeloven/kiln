@@ -1,4 +1,5 @@
 
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/pixeloven/kiln)
 
 # Explore
 - [] Frontend in TS or Kotlin?
@@ -13,7 +14,8 @@
 - [] Micro Frontends
 - [] Common code
 - [] independent packge defintions? Package, API, APP and/or global? - GUT says no this was hard to maintain in PixelOven
-
+- [] Mockoon or some eq? 
+- [] Swagger
 
 ## CI/CD
 - [] Code flow
@@ -34,6 +36,9 @@
 - [] Translations (server side and ideally static page support)
 - [] Kong for access control
 - [] Can we have server rendered and static render apps live side by side?
+- [] Minikube in CI?
+- [] Minikube or K8 env for running Code flow against?
+
 
 
 https://kotlinlang.org/docs/multiplatform.html#full-stack-web-applications
